@@ -88,10 +88,10 @@ void ind_write(uint8_t dig);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-	dig1=0xFF;
-	dig2=0xFF;
-	dig3=0xFF;
-	dig4=0x00;
+	dig1=0xAA;
+	dig2=0xAA;
+	dig3=0xAA;
+	dig4=0xAA;
 	
 
   /* USER CODE END 1 */
