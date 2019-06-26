@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [NI_ELVIS.PrjPCB]
+   Generated File[main_board.TXT]
+   Generated File[main_board-RectHoles.TXT]
+   Generated File[main_board.LDP]
+   Generated File[main_board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:56:57 On 08.05.2019
